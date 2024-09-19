@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@reportportal/agent-js-playwright": "^5.1.9"
+  }
+}
